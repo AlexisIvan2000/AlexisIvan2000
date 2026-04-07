@@ -1,6 +1,4 @@
-<h1 align="center">
-  Hey there, I'm Alexis 👋
-</h1>
+### Hey there, I'm Alexis 👋
 
 <p align="center">
   <strong>Full Stack Python Developer</strong> · Building modern apps powered by AI
