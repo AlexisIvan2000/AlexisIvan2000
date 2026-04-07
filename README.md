@@ -77,7 +77,7 @@ I hold a **College Diploma in Programming & Mobile Applications** from Collège 
 
 ---
 
-### 🚀 Personal Projects
+### 🚀 Personal Projects Online
 
 | Project | Description | Tech |
 |---------|-------------|------|
