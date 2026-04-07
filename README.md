@@ -22,9 +22,9 @@ Full stack developer based in **Canada**, focused on Python, AI integration, and
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Joblyx](https://play.google.com/store/apps/details?id=com.joblyx.app&pcampaignid=web_share)** | Intelligent IT career assistant available on the Play Store | Flutter, FastAPI, PostgreSQL, Cloudflare R2, NLP |
+| **[Joblyx](https://play.google.com/store/apps/details?id=com.joblyx.app&pcampaignid=web_share)** | Intelligent IT career assistant available on the Play Store | Flutter, FastAPI, PostgreSQL, Cloudflare R2, NLP, OpenAI, Prompt engineering |
 | **[Joblyx Website](https://joblyx.com/)** | Showcase website for Joblyx | React.js, Vite |
-| **[CommitClarify](https://commitclarify.vercel.app/)** | Analyzes security, consistency & quality of your GitHub code | React.js, FastAPI, ChromaDB, Hugging Face, LangChain, RAG |
+| **[CommitClarify](https://commitclarify.vercel.app/)** | Analyzes security, consistency & quality of your GitHub code | React.js, FastAPI, ChromaDB, Hugging Face, LangChain, RAG, PostgreSQL |
 
 ---
 
