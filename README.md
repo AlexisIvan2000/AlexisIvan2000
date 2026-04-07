@@ -83,7 +83,7 @@ I hold a **College Diploma in Programming & Mobile Applications** from Collège 
 |---------|-------------|------|
 | **[Joblyx](https://play.google.com/store/apps/details?id=com.joblyx.app&pcampaignid=web_share)** | An intelligent IT career assistant mobile app available on the Play Store | Flutter, FastAPI, PostgreSQL, Cloudflare R2, NLP, Boto3 |
 | **[Joblyx Website](https://joblyx.com/)** | Showcase website for the Joblyx application | React.js, Vite |
-| **[CommitClarify](https://commitclarify.vercel.app/)** | A web app that analyzes the security, consistency, and quality of your GitHub code | React.js, FastAPI, PostgreSQL, ChromaDB, Hugging Face, LangChain |
+| **[CommitClarify](https://commitclarify.vercel.app/)** | A web app that analyzes the security, consistency, and quality of your GitHub code | React.js, FastAPI, PostgreSQL, ChromaDB, Hugging Face, LangChain, RAG |
 
 ---
 
@@ -98,8 +98,9 @@ I hold a **College Diploma in Programming & Mobile Applications** from Collège 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexisIvan2000&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisIvan2000&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=AlexisIvan2000&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
