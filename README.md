@@ -1,10 +1,7 @@
 ### Hey there, I'm Alexis 👋
 
-<p align="center">
-  <strong>Full Stack Python Developer</strong> · Building modern apps powered by AI
-</p>
-
-<p align="center">
+Full Stack Python Developer· Building modern apps powered by AI
+<p>
   <a href="https://alexismoungang.dev">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/alexis-moungang-396104371">💼 LinkedIn</a> •
   <a href="mailto:alexiskombou75@gmail.com">✉️ Email</a>
@@ -78,6 +75,6 @@ Full stack developer based in **Canada**, focused on Python, AI integration, and
 
 ---
 
-<p align="center">
+<p>
   <i>Open to opportunities — let's build something great together!</i>
 </p>
