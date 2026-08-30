@@ -89,7 +89,7 @@ Full stack developer based in **Canada**, focused on Python, AI integration, and
 
 ## 💼 Experience
 
-- **Full Stack Developer — Independent Projects** *(Jun 2025 – Present)* — Designed, built and deployed 3 production apps solo: Joblyx (Google Play), CommitClarify, OubliePas
+- **Full Stack Developer — Independent Projects** *(Jul 2025 – Present)* — Designed, built and deployed 3 production apps solo: Joblyx (Google Play), CommitClarify, OubliePas
 - **Full Stack Developer Intern** @ Innovations et Solutions Technologiques Inc — Montréal, QC *(Mar – Jun 2025)*
 - **IT Technician** @ SGMC (Castel Group) — Douala, Cameroon *(May 2020 – May 2021)*
 - **IT Intern** @ COCIC SARL — Douala, Cameroon *(Dec 2019 – Mar 2020)*
