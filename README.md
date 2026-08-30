@@ -2,7 +2,7 @@
 
 **Full Stack Python Developer · Building modern apps powered by AI**
 
-3 production apps shipped solo — from idea to deployment — with **1,500+ automated tests** across projects.
+3 production apps shipped solo  from idea to deployment with **1,500+ automated tests** across projects.
 
 <p>
   <a href="https://alexismoungang.dev">🌐 Portfolio</a> •
